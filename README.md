@@ -22,5 +22,4 @@ I’m also looking to collaborate on any other automation projects.
 You can reach me through my email address @ esiranjo@gmail.com for further assistance
 Using the different styling elements, such as float, text decoration and color, I managed to create this simple personal portfolio page.
 Also, there are no known bugs in executing this code as it doesn't require any prior installation of an application before accessing the website.
-I am looking at being a web developer, hence, for any collaboration, one can contact me through my email address, esiranjo@gmail.com
 I have also added Apache-2.0 License for my licensing rights.
