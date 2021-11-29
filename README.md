@@ -9,3 +9,4 @@ There is no application to download in order to run this code. As long as one ha
 Also, there are no known bugs in executing this code as it doesn't require any prior installation of an application before accessing the website.
 The language I have used here is purely HTML and CSS.
 I am looking at being a web developer, hence, for any collaboration, one can contact me through my email address, esiranjo@gmail.com
+I have also added Apache-2.0 License for my licensing rights
