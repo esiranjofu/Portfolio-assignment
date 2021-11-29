@@ -1,7 +1,7 @@
 # Portfolio-assignment
 The code that has been used here is basically HTML. CSS has been added to bring in the styling element
 This portfolio is created by myself. This is in an attempt to learn how to use CSS.
-## Description
+Project Description
 Hi, I’m Emily Siranjofu. I am a retail shop team leader, currently working with one of Kenya's largest telco industry. I am currently working on my personal portfolio. This is meant to help me improve my programming skills.
 To know whether I am ready for the lesson, I have chosen to create a personal portfolio. I also ensured that the website I am creating has my profile photo and a background image. To do this, the steps I used are as I follows:
 a) Create a repository in the local machine.
